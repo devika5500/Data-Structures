@@ -1,0 +1,36 @@
+Manifest-Version: 1.0
+Created-By: 1.8.0_151 (Oracle Corporation)
+
+Name: codecheck.log
+SHA-256-Digest: T6YXOAhkByK/+bOiMDx9//TDXOnjqwKoBtTTensdy98=
+
+Name: report.html
+SHA-256-Digest: Li2YNhfq9MhzTqwPMOVAccV05K5GoBorleLh1lTjIpU=
+
+Name: SortedLinkedList.h
+SHA-256-Digest: r6LiCTNj/BAbaxrMEhpF2nI2r6ZeWt2WKqMrxV676zM=
+
+Name: SortedLinkedList.cpp
+SHA-256-Digest: Gau4xuZXSUzNqh3/+eTmxIvleceI349LtP6Gkht1q8E=
+
+Name: City.h
+SHA-256-Digest: fCtCcbD923M5Om8IrGGGLksuVF333NSV2Z9d43chNNY=
+
+Name: Node.h
+SHA-256-Digest: 1kXx6+e0XbQW2X5m4R9cpSHdsDPaLOrSnb8TdTldYDE=
+
+Name: codecheck.out
+SHA-256-Digest: 47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=
+
+Name: Coordinate.cpp
+SHA-256-Digest: csRw2AFrWBlCOl+4n1So4/SwpogcWZT+R7PMHNG50GY=
+
+Name: Coordinate.h
+SHA-256-Digest: PBlMpWz1ywPKUxkXy1pDj6df3YWrYxjGtMVr5sbOnQw=
+
+Name: City.cpp
+SHA-256-Digest: oJ5ZYreQimom/OAMrbgOJnnMxMVeGFaDuRp4+6Wpzxg=
+
+Name: Node.cpp
+SHA-256-Digest: b2v4ob2RqTwrlQANaONgEy8HjrdQWkNj5pnEf9IdydA=
+

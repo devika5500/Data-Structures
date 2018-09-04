@@ -1,0 +1,39 @@
+Signature-Version: 1.0
+SHA-256-Digest-Manifest-Main-Attributes: pqLWhTNrZdhDhGRhIaJuvd4gNCwAw
+ MHS8DgAVRPBXtk=
+SHA-256-Digest-Manifest: 0ofP2nh0T5X/lIBtUk0LUVK+UtkRQXVrIDu5k5ukBXU=
+Created-By: 1.8.0_151 (Oracle Corporation)
+
+Name: codecheck.log
+SHA-256-Digest: menn4ls87xSBRIWsHgZuln6RFbtIHNId87jQITPDrHQ=
+
+Name: report.html
+SHA-256-Digest: beD1GotINXCUxkv241kQCUcIFVmsF9sn01xthqMW5/s=
+
+Name: SortedLinkedList.h
+SHA-256-Digest: v5SRc3GGoIkREMzrG2+mHuqhwF36+07SuXrAxhNfeoc=
+
+Name: SortedLinkedList.cpp
+SHA-256-Digest: lZ55c2R8tFhS0zNwyqJS4KdXKZMw/qlNtTYzb0+2Kfs=
+
+Name: City.h
+SHA-256-Digest: BEqCGO47ds8L6yGgUYVlrUR27KHfnjoDMguLB/zXdFs=
+
+Name: Node.h
+SHA-256-Digest: v/mO+nkfow8dWqCj8EsihwvksfYZQL66IhXkHH+ZAPI=
+
+Name: codecheck.out
+SHA-256-Digest: b52xXFI58Bk2vYsOBFW4SeAtUihwAfI35pqcs+KFu0w=
+
+Name: Coordinate.cpp
+SHA-256-Digest: /UwpDOhHLAI8jN8UuWptKLWuZbv6R0SXZDooVl0wiTQ=
+
+Name: Coordinate.h
+SHA-256-Digest: GGVxVVe5lYchlc20CGbD2eWUnWSq/Kdqx9YjpY1IMIc=
+
+Name: City.cpp
+SHA-256-Digest: E99GJd/r6NYQ7aSR+A4lxTSBf7iHXEfflWVj6+UjQgk=
+
+Name: Node.cpp
+SHA-256-Digest: DxCDs8j4PxwIYeWzYf9UBc3uFGpKEMy+QFr9KvKIrn0=
+
